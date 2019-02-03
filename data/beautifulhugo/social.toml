@@ -5,6 +5,12 @@ title = "Email me"
 icon = "fa-envelope"
 
 [[social_icons]]
+id = "medium"
+url = "https://medium/@%s"
+title = "Medium"
+icon = "fa-medium"
+
+[[social_icons]]
 id = "facebook"
 url = "https://www.facebook.com/%s"
 title = "Facebook"
